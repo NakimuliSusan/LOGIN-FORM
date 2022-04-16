@@ -1,0 +1,193 @@
+
+#grad{
+    background-image:linear-gradient(to right, #E1BA6C,#D58EDB) ;
+    overflow:hidden;
+}
+.container{
+    display:flex;
+    margin-left:15%;
+    margin-top:3%;
+    width:65%;
+
+    /* margin:5% 15% 55% 15%; */
+}
+
+.container-1{
+    background-color: #E1BA6C;
+    border: #E1BA6C;
+    box-shadow: #E1BA6C;
+    /* margin:5% 55% 10% 10%; */
+    border-top-left-radius: 12px;
+    border-bottom-left-radius:12px;
+}
+.container-1 img {
+   
+    margin: 70px 10px 20px 30px;
+}
+.container-1 h6 {
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    margin-left:10%;
+    margin-top:25%;
+    color:#874E12;
+}
+.container-1 h2{
+font-family: 'Akshar', sans-serif;
+margin-left:15%;
+color: #6B3E0E;
+}
+.container-2 {
+    background-color:#fff;
+    border:#fff;
+    border-top-right-radius:8px;
+    border-bottom-right-radius:8px;
+    /* margin-top:-50.4%; */
+    /* margin-left:45%; */
+    /* margin-right:1000px; */
+    
+    
+    
+
+}
+.container-2 header {
+    text-align:right;
+    margin-right:10px;
+    margin-top:15px;
+}
+header a{
+    text-decoration: none;
+
+}
+.container-2 h2 {
+    text-align: center;
+    margin-top:10%;
+
+}
+.button {
+    margin-left:24%;
+    align-items: center;
+    background-color: #3F7BE0;
+    color: whitesmoke;
+    border: none;
+    border-radius:8px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+.button a {
+    color:white;
+    text-decoration: none;
+    margin-right:30px;
+}
+.fa {
+    padding: 1px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.line{
+    display:flex;
+    stroke: width 1px;;
+}
+.line-1 {
+    margin-left:150px;
+    stroke: 1px;;
+}
+.line-2 {
+    margin-right:150px;
+}
+
+
+.label {
+    margin-left:140px;
+    font-weight: bold;
+
+}
+.input{
+    margin-left:140px;
+    width:50%;
+    background-color: gainsboro;
+    border: none;
+    border-radius:5px;
+    padding:11px;
+}
+.inputs{
+    display: flex;
+}
+.lan{
+    margin-right:150px;
+}
+.email{
+   margin-left:140px; 
+   
+}
+.email label{
+    font-weight: bold;
+}
+.email input {
+    width:73%;
+    background-color: gainsboro;
+    border:none;
+    padding:11px;
+    border-radius:5px;
+}
+.password {
+    margin-left:140px;
+}
+.password label{
+    font-weight: bold;
+}
+.password input{
+    width:73%;
+    background-color:gainsboro;
+    border:none;
+    padding:11px;
+}
+.check{
+    margin-left:20%;
+    
+}
+.check a {
+    text-decoration:none;
+}
+/* .check input {
+    margin-left:30%;
+} */
+/* .check input span{
+    margin-left:30%;
+} */
+
+button{
+  background-color: #e90a0a; 
+  border: none;
+  border-radius:12px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:5%;
+  margin-left:20%;
+}
+.fa-facebook{
+    /* display: inline block; */
+    /* background-color:rgb(177, 161, 161); */
+    color:rgb(3, 3, 3);
+    /* padding:2px; */
+    
+}
+.fa-twitter{
+    color:black;
+}
+p{
+    margin-left: 19%;
+}
+p a{
+    text-decoration:none;
+}
