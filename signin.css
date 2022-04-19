@@ -1,5 +1,7 @@
 #grad {
     background-image:linear-gradient(to right,#E1BA6C,#D58EDB);
+    overflow: hidden;
+    margin-top:4%;
 }
 .container{
     display: flex; 
